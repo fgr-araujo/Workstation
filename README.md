@@ -28,5 +28,5 @@ My setup now
 Windows 8.1
 
 ### Code Editor
-[Atom](https://atom.io/)
+[Atom](https://atom.io/)<br>
 [Packages Instaled](https://github.com/iFgR/Workstation/blob/master/Atom/packages.txt)
