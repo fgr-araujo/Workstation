@@ -1,0 +1,13 @@
+color-picker@2.0.13
+emmet@2.3.13
+emmet-snippets-compatibility@1.0.0
+file-icons@1.6.11
+git-status@0.3.3
+jshint@1.8.3
+linter@1.10.0
+linter-htmlhint@0.2.1
+linter-php@1.0.5
+minimap@4.16.0
+pigments@0.18.1
+todo-show@0.16.0
+
